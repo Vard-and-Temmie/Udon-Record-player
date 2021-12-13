@@ -11,6 +11,11 @@
 5.
 6.
 
+## How to add disks?
+1.
+2.
+3.
+
 ## Tips
 - w
 - w

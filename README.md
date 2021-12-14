@@ -1,5 +1,5 @@
 # Udon Record player
-By [Vard](https://twitter.com/VardFree) and [Temmie Dola](https://twitter.com/Temmie_Dola)
+By [Temmie Dola](https://twitter.com/Temmie_Dola) and [Vard](https://twitter.com/VardFree)
 ## An interactive vinyl record player for vrchat
 - Inspired by [Tanuki Tunesǃ](https://vrchat.com/home/world/wrld_033b9f75-49be-4213-9218-a540dd2be60a) world 
 - You can visit [Example world](https://vrchat.com/home/world/wrld_033b9f75-49be-4213-9218-a540dd2be60a) to try it out by yourself

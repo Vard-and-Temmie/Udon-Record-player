@@ -16,7 +16,7 @@ Inspired by [Tanuki Tunesǃ](https://vrchat.com/home/world/wrld_033b9f75-49be-42
 2. Create material with your texture (we recommend duplicating one of the example vinyl materials cause they have PBR maps for more realistic look)
 3. Drop one of the ExampleVinyl prefabs into scene and change its material and name to your own
 4. Increase array size of vinyl_list and vinyl_url in Record_Player object by 1 and apply your new vinyl object and url to them ![image](https://i.imgur.com/ID4zMny.png)
-5. Apply your new vinyl 
+5. Done!
 ## Tips
-- w
+- You can easily personalize player by just changing albedo color in material settings. [image](https://i.imgur.com/GRcwUHi.png)
 - w

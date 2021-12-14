@@ -18,5 +18,5 @@ Inspired by [Tanuki Tunesǃ](https://vrchat.com/home/world/wrld_033b9f75-49be-42
 4. Increase array size of vinyl_list and vinyl_url in Record_Player object by 1 and apply your new vinyl object and url to them ![image](https://i.imgur.com/ID4zMny.png)
 5. Done!
 ## Tips
-- You can easily personalize player by just changing albedo color in material settings. [image](https://i.imgur.com/GRcwUHi.png)
+- You can easily personalize player by just changing albedo color in material settings. ![image](https://i.imgur.com/GRcwUHi.png)
 - w

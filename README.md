@@ -8,14 +8,14 @@ Inspired by [Tanuki Tunesǃ](https://vrchat.com/home/world/wrld_033b9f75-49be-42
 2. Import [Udon_Record_Player.unitypackage](https://github.com/Vard-and-Temmie/Udon-Record-player/releases) to your unity project
 3. Drag USharpVideo(if you dont have one already) and Record_Player prefabs into your scene
 4. Drag "USharpVideo" and "Internals" gameobjects to fields with the same names in Record_Player object ![image](https://i.imgur.com/dnRKF2u.png)
-5. Drop ExampleVinyl prefabs into your scene and fill out vinyl_list fields with them ![image](https://i.imgur.com/rVyibcY.png)
+5. Drop ExampleVinyl prefabs into your scene and fill out `Vinyl_list` fields with them ![image](https://i.imgur.com/rVyibcY.png)
 6. Done!
 
-## How to add you own vinyl records?
+## How to add your own vinyl records?
 1. First of all you need to make a texture of your vinyl. We provided Example.PSD in Example vinyls folder to make it easier for you <3
 2. Create material with your texture (we recommend duplicating one of the example vinyl materials cause they have PBR maps for more realistic look)
 3. Drop one of the ExampleVinyl prefabs into scene and change its material and name to your own
-4. Increase array size of vinyl_list and vinyl_url in Record_Player object by 1 and apply your new vinyl object and url to them ![image](https://i.imgur.com/ID4zMny.png)
+4. Increase array size of `Vinyl_list` and `Vinyl_url` in Record_Player gameobject by 1 and apply your new vinyl object and url to them ![image](https://i.imgur.com/ID4zMny.png)
 5. Done!
 ## Tips
 - We recommend you locking your USharpVideo player by default for public worlds to prevent chaos of constantly changing music by random users.

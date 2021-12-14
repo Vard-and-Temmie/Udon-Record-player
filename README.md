@@ -15,7 +15,7 @@ By [Vard](https://twitter.com/VardFree) and [Temmie Dola](https://twitter.com/Te
 1. First of all you need to make a texture of your vinyl. We provided Example.PSD in Example vinyls folder to make it easier for you <3
 2. Create material with your texture (we recommend duplicating one of the example vinyl materials cause they have PBR maps for more realistic look)
 3. Drop one of the ExampleVinyl prefabs into scene and change its material and name to your own
-4. Increase array size of `Vinyl_list` and `Vinyl_url` in Record_Player gameobject by 1 and apply your new vinyl object and url to them ![image](https://i.imgur.com/ID4zMny.png)
+4. Increase array size of `Vinyl_list` and `Vinyl_url` in Record_Player gameobject by 1 and apply your new vinyl gameobject and url to them ![image](https://i.imgur.com/ID4zMny.png)
 5. Done!
 ## Tips
 - We recommend you locking your USharpVideo player by default for public worlds to prevent chaos of constantly changing music by random users.

@@ -21,4 +21,4 @@ By [Temmie Dola](https://twitter.com/Temmie_Dola) and [Vard](https://twitter.com
 - We recommend you locking your USharpVideo player by default for public worlds to prevent chaos of constantly changing music by random users.
 - You can easily personalize player look by just changing albedo color in material settings. ![image](https://i.imgur.com/GRcwUHi.png)
 ## Additional information
-This is our first prefab and it probably has bugs which we didn't notice, so please if you find out one contact Vard#2766. Also we pretty shure we have plenty of misspells in this document cause english is not our native language, if you find out misspells contact about that too!
+This is our first prefab and it probably has bugs which we didn't notice, so please if you find out one - contact Vard#2766. Also we pretty shure we have plenty of misspells in this document because english is not our native language, if you find out misspells contact about that too!

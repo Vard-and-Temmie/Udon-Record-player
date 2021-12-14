@@ -10,8 +10,8 @@ Inspired by [Tanuki Tunesǃ](https://vrchat.com/home/world/wrld_033b9f75-49be-42
 5. Drop ExampleVinyl prefabs into your scene and fill out vinyl_list fields with them ![image](https://i.imgur.com/rVyibcY.png)
 6. Done!
 
-## How to add disks?
-1.
+## How to add you own vinyl records?
+1. 
 2.
 3.
 

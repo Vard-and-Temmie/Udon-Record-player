@@ -11,8 +11,8 @@ Inspired by [Tanuki Tunesǃ](https://vrchat.com/home/world/wrld_033b9f75-49be-42
 6. Done!
 
 ## How to add you own vinyl records?
-1. 
-2.
+1. First of all you need to make a texture of your vinyl. We provided Example.PSD in Example vinyls folder to make it easier for you <3
+2. 
 3.
 
 ## Tips

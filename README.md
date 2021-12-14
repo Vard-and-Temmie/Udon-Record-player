@@ -6,7 +6,7 @@ By [Temmie Dola](https://twitter.com/Temmie_Dola) and [Vard](https://twitter.com
 - You can visit [Example world](https://vrchat.com/home/world/wrld_55ebe806-1918-4d4a-8202-7b98f142be81) to try it out by yourself
 ## Installation
 1. Install the latest [VRCSDK3](https://vrchat.com/home/download), [UdonSharp](https://github.com/MerlinVR/UdonSharp) and [USharpVideo](https://github.com/MerlinVR/USharpVideo) packages
-2. Import [Udon_Record_Player.unitypackage](https://github.com/Vard-and-Temmie/Udon-Record-player/releases) to your unity project
+2. Import [Udon_Record_player.unitypackage](https://github.com/Vard-and-Temmie/Udon-Record-player/releases) to your unity project
 3. Drag USharpVideo(if you dont have one already) and Record_Player prefabs into your scene
 4. Drag "USharpVideo" and "Internals" gameobjects to fields with the same names in Record_Player gameobject ![image](https://i.imgur.com/dnRKF2u.png)
 5. Drop ExampleVinyl prefabs into your scene and fill out `Vinyl_list` fields with them ![image](https://i.imgur.com/rVyibcY.png)

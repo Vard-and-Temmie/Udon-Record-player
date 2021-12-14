@@ -8,7 +8,7 @@ Inspired by [Tanuki Tunesǃ](https://vrchat.com/home/world/wrld_033b9f75-49be-42
 3. Drag USharpVideo(if you dont have one already) and Record_Player prefabs into your scene
 4. Drag "USharpVideo" and "Internals" objects to fields with the same names in Record_Player object ![image](https://i.imgur.com/dnRKF2u.png)
 5. Drop ExampleVinyl prefabs into your scene and fill out vinyl_list fields with them ![image](https://i.imgur.com/rVyibcY.png)
-6.
+6. Done!
 
 ## How to add disks?
 1.

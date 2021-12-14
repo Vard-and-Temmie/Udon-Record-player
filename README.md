@@ -18,5 +18,5 @@ Inspired by [Tanuki Tunesǃ](https://vrchat.com/home/world/wrld_033b9f75-49be-42
 4. Increase array size of vinyl_list and vinyl_url in Record_Player object by 1 and apply your new vinyl object and url to them ![image](https://i.imgur.com/ID4zMny.png)
 5. Done!
 ## Tips
+- We recommend locking your USharp Video player by default for public worlds to prevent chaos of constantly changing music by random users.
 - You can easily personalize player look by just changing albedo color in material settings. ![image](https://i.imgur.com/GRcwUHi.png)
-- w

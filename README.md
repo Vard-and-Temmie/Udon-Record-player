@@ -2,7 +2,7 @@
 By [Temmie Dola](https://twitter.com/Temmie_Dola) and [Vard](https://twitter.com/VardFree)
 ## An interactive vinyl record player for vrchat
 - Inspired by [Tanuki Tunesǃ](https://vrchat.com/home/world/wrld_033b9f75-49be-4213-9218-a540dd2be60a) world 
-- You can visit [Example world](https://vrchat.com/home/world/wrld_033b9f75-49be-4213-9218-a540dd2be60a) to try it out by yourself
+- You can visit [Example world](https://vrchat.com/home/world/wrld_55ebe806-1918-4d4a-8202-7b98f142be81) to try it out by yourself
 ## Installation
 1. Install the latest [VRCSDK3](https://vrchat.com/home/download), [UdonSharp](https://github.com/MerlinVR/UdonSharp) and [USharpVideo](https://github.com/MerlinVR/USharpVideo) packages
 2. Import [Udon_Record_Player.unitypackage](https://github.com/Vard-and-Temmie/Udon-Record-player/releases) to your unity project

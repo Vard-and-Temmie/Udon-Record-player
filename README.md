@@ -7,7 +7,7 @@ Inspired by [Tanuki Tunesǃ](https://vrchat.com/home/world/wrld_033b9f75-49be-42
 2. Import [Udon_Record_Player.unitypackage](https://github.com/Vard-and-Temmie/Udon-Record-player/releases) to your unity project
 3. Drag USharpVideo(if you dont have one already) and Record_Player prefabs into your scene
 4.
-[image](https://i.imgur.com/dnRKF2u.png)
+![image](https://i.imgur.com/dnRKF2u.png)
 5.
 6.
 
